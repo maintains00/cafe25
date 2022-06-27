@@ -9,4 +9,4 @@
 + 💨 Grid
 + 반응형 🚀
 + 깃허브 페이지 
-url : (https://maintains00.github.io/cafe25/)
+(프로젝트 url) : [https://maintains00.github.io/cafe25/]
